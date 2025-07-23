@@ -91,4 +91,8 @@ This project showcases an interactive sales dashboard built using Power BI and E
 - Kaggle – for providing the dataset  
 - YouTube: [Power BI Dashboard Tutorial](https://www.youtube.com/watch?v=AGrl-H87pRU) – for learning resources
 
+## DASHBORD 
+<img width="1920" height="1079" alt="Future_DS_01" src="https://github.com/user-attachments/assets/d3d2c2fb-b2ba-4f84-b5b5-d03af3d0ed2e" />
+
+
 
